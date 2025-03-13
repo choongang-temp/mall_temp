@@ -11,5 +11,7 @@
 </head>
 <body>
 <%=user%>
+<%=user%>
+<%=user%>
 </body>
 </html>
